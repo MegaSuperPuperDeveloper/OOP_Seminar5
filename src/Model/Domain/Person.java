@@ -1,6 +1,6 @@
-package Model;
+package Model.Domain;
 
-public abstract class Person {
+public abstract class Person { // Шаблон для классов по типу Student
     private String name;
     private int age;
 
